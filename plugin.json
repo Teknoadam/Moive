@@ -1,0 +1,10 @@
+{
+  "name": "BelgeselX",
+  "description": "BelgeselX sitesi için eklenti",
+  "author": "SeninAdın",
+  "version": "1.0.0",
+  "main": "Belgeselx",
+  "type": "tv",
+  "icon": "https://belgeselx.com/favicon.ico",
+  "langs": ["tr"]
+}
